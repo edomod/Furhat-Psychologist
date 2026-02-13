@@ -1,7 +1,7 @@
 # Assistente Psicologico Virtuale
 
 ## Progetto di laurea
-Questo repository contiene il mio progetto di laurea, realizzato con la prof.ssa Rita Francese e il mio collega di studi Mattia Guariglia. Il progetto esplora l'uso di un robot sociale per supportare conversazioni psicologiche simulate, con un focus su empatia, qualita della comunicazione e valutazione dell'esperienza utente.
+Questo repository contiene il mio progetto di laurea, realizzato con la prof.ssa Rita Francese e il mio collega di studi Mattia Guariglia ([@mattyx97](https://github.com/mattyx97)). Il progetto esplora l'uso di un robot sociale per supportare conversazioni psicologiche simulate, con un focus su empatia, qualita della comunicazione e valutazione dell'esperienza utente.
 
 ## Descrizione
 Sistema di interazione basato su intelligenza artificiale che simula un colloquio psicologico utilizzando il modello linguistico GPT-3 di OpenAI. L'assistente virtuale, Maurizio, e progettato per condurre conversazioni empatiche e supportive in italiano, con comportamenti multimodali del robot (espressioni facciali e gesticolazione) per rendere l'interazione piu naturale.
