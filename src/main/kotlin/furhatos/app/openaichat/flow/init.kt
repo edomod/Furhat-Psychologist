@@ -20,7 +20,7 @@ val Init: State = state() {
         users.setSimpleEngagementPolicy(distanceToEngage, maxNumberOfUsers)
 
         /** Check API key for the OpenAI GPT3 language model has been set */
-        if (serviceKey.isEmpty()) {
+        if (serviceKey.isEmpty() || serviceKey == "YOUR_OPENAI_API_KEY") {
             println("Missing API key for OpenAI GPT3 language model. ")
             exit()
         }

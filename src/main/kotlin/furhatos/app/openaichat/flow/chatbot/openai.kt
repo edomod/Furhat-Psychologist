@@ -8,7 +8,7 @@ import furhatos.flow.kotlin.DialogHistory
 import furhatos.flow.kotlin.Furhat
 
 /** API Key to GPT3 language model. Read from env to avoid committing secrets. **/
-val serviceKey: String = System.getenv("OPENAI_API_KEY") ?: ""
+val serviceKey: String = System.getenv("OPENAI_API_KEY") ?: "YOUR_OPENAI_API_KEY"
 
 class OpenAIChatbot(val description: String, val userName: String, val agentName: String) {
 
